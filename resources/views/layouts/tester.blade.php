@@ -184,7 +184,7 @@
     <header>
         <div class="container">
             <h1>AlertHub Test Console</h1>
-            <p>Split-by-task UI to verify each assignment requirement.</p>
+           
             <nav>
                 <a href="/" class="{{ request()->is('/') ? 'active' : '' }}">Flow</a>
                 <a href="/projects" class="{{ request()->is('projects') ? 'active' : '' }}">Projects</a>
