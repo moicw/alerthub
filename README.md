@@ -127,4 +127,7 @@ php artisan alerts:schedule-digests {projectId} {date?} {type?}
 php artisan test
 ```
 
-Includes coverage for webhook pipeline and legacy bug fixes.
+## Try It Live
+
+You can test at:
+https://alerthub.moicw.com/
